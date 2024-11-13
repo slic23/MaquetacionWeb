@@ -1,0 +1,47 @@
+.logo {
+    width: 52px;
+    height: 52px;
+}
+
+.portada {
+    width: 1512px;
+
+}
+
+nav {
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.menu ul  {
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+   
+}
+
+
+ul li {
+    padding: 0 50px;
+}
+
+ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+.selects {
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.selects div {
+ padding: 0 20px;
+ background-color: black;
+ 
+}
